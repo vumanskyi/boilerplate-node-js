@@ -29,7 +29,7 @@ npm run start
 ## Feature
 
 - [x] Add support MongoDB core
-- [] Add support MySQL 
-- [] Add support PostgreSQL 
-- [] Add support Redis
+- [ ] Add support MySQL 
+- [ ] Add support PostgreSQL 
+- [ ] Add support Redis
 
